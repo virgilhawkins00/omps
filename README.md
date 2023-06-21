@@ -67,7 +67,4 @@ Password: lexus123
 
 
 
-
-Apache 2.0 License
-
 ...
